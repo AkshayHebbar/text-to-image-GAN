@@ -1,7 +1,4 @@
-# This notebook is a clone of 
-
-https://github.com/utsav-195/text-to-image-generator-gan/blob/main/text_to_image_synthesizer_glove.ipynb
-
+# This notebook is a clone of https://github.com/utsav-195/text-to-image-generator-gan/blob/main/text_to_image_synthesizer_glove.ipynb
 with minor modifications.
 
 
