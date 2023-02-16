@@ -1,9 +1,8 @@
-#### This notebook uses some code of https://github.com/utsav-195/text-to-image-generator-gan/blob/main/text_to_image_synthesizer_glove.ipynb
-with modifications.
-
-
 # Text to Image Synthesizer using Generative Adversarial Networks
-The purpose of this project is to train a generative adversarial network (GAN) to generate images from textual description of the image.
+
+#### (This notebook uses some code of https://github.com/utsav-195/text-to-image-generator-gan/blob/main/text_to_image_synthesizer_glove.ipynb with modifications.)
+
+### The purpose of this project is to train a generative adversarial network (GAN) to generate images from textual description of the image.
 For this particular project, I have used flower images from the [Oxford 102 Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html).
 
 ## Data:
